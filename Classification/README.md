@@ -1,4 +1,4 @@
-# 📘 Machine Learning: Classification
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b07872a5-ec09-4234-a78f-2a590d8142e4" /># 📘 Machine Learning: Classification
 
 A beginner-friendly, theory + practical guide to **classification algorithms in Machine Learning**. This repository covers the core concepts, intuition, assumptions, advantages, limitations, important hyperparameters, Python implementations, and interview points for commonly used classification models.
 
@@ -578,6 +578,13 @@ for name, accuracy in sorted(results, key=lambda item: item[1], reverse=True):
 ---
 
 ## 6. Classification Evaluation Metrics
+
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/e41eb4d9-8c72-489a-a8aa-5cc7cdf08e30" />
+
+
+
+
 
 ### Confusion matrix
 
